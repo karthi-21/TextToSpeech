@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextToSpeech</string>
+    <string name="enter_your_text">Enter your Text</string>
+    <string name="speak">Speak</string>
+    <string name="sample">Hello users this is just for testing .click the button \'speak\' to speak this line.</string>
+    <string name="text_to_speech">Text to Speech</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="help">hai welcome to android text to speak tutorial, type the word or sentence in above feild to speak it loud.make sure ur media volume is high</string>
+</resources>
